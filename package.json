@@ -1,0 +1,19 @@
+{
+  "name": "game-book-creator",
+  "version": "1.0.0",
+  "description": "Web app for creating game-books, express API, react front end.",
+  "main": "index.js",
+  "scripts": {
+    "dev":"(cd api && npm start) & (cd client && npm start)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ozzcer/game-book-creator.git"
+  },
+  "author": "Oz Harrison",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Ozzcer/game-book-creator/issues"
+  },
+  "homepage": "https://github.com/Ozzcer/game-book-creator#readme"
+}
