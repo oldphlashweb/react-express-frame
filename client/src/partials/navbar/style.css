@@ -1,0 +1,21 @@
+#navbar {
+    font-size: 2em;
+}
+
+#navbar-list {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    width: 97%;
+}
+
+#navbar li {
+    display: inline;
+}
+
+#navbar img {
+    max-width: 2em;
+}

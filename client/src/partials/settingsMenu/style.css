@@ -1,0 +1,16 @@
+#settings-menu-container{
+    width: 5em;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+#menu{
+    position: absolute;
+    top: 1.25em;
+}
+
+#menu button{
+    width: 100%;
+    margin: 0.5em 0 0 0;
+}
