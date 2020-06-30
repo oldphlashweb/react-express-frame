@@ -1,2 +1,2 @@
-# game-book-creator
-A web app that allows the creation and playing of game book adventures, based on series like Fighting Fantasy.
+# react-express-frame
+A simple framework with an express backend API and a react client using React Router.
